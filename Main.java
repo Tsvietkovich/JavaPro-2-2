@@ -5,7 +5,7 @@ import com.google.gson.GsonBuilder;
 
 public class Main {
     public static void main(String[] args) {
-        String path = "E:\\JAVA\\Projects\\OOP\\src\\pro\\lecture_2\\JSONParse\\json.txt";
+        String path = "json.txt";
         String jsonString = new Reader().readFile(path);
         //OR
         Person person = new Parser().parseCurrentInfo(jsonString);
