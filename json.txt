@@ -1,0 +1,11 @@
+{
+"name": "Maryia",
+"surname": "Tsvietkovich",
+"phones": ["044-256-78-90", "066-123-45-67"],
+"sites": ["http://https://github.com/Tsvietkovich", "https://www.instagram.com/tsvietkovich/"],
+"address": {
+"country": "Ukrain",
+"city": "Kiev",
+"street": "Irpenskaya"
+}
+}
